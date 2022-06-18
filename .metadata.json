@@ -1,0 +1,10 @@
+[
+  {
+    "package": "esmprep",
+    "oncran": true
+  },
+  {
+    "package": "predictMe",
+    "oncran": true
+  }
+]
