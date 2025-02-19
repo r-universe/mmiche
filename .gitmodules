@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "correlatio"]
+	path = correlatio
+	url = https://github.com/mmiche/correlatio
 [submodule "esmprep"]
 	path = esmprep
 	url = https://github.com/mmiche/esmprep
